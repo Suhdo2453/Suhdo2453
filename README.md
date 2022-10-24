@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Mobile App developer from Vietnam</h3>
 
 - 👋 Hi, I’m @Suhdo2453
-- 👀 I’m interested in ...
+- 👀 I’m interested in video games, cat and coding.
 - 🌱 I’m currently learning Andriod programming and more.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dungvipnr@gmail.com
 
 --------
