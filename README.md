@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Suhdo2453
 - 👀 I’m interested in video games, cat and coding.
-- 🌱 I’m currently learning Andriod programming and more.
+- 🌱 I’m currently learning Andriod programming and game developer by Unity.
 - 📫 How to reach me dungvipnr@gmail.com
 
 --------
