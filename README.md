@@ -34,7 +34,12 @@ Happy coding! 🚀🎮
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Suhdo2453/Suhdo2453/output/github-contribution-grid-snake.svg" />
+</picture>
   
   <br/><br/><br/>
 </div>
