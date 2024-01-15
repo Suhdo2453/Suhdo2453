@@ -20,7 +20,7 @@ Happy coding! 🚀🎮
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,unity,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,unity,postman,discord,idea,vscode" />
   </a>
 </div>
 <br/>
